@@ -2,7 +2,7 @@
 
 ## Description
 
-Este es un repositorio de prueba en el cual uso las notebooks de jupyter y siversas librerias como numpy para realizar algiunos ejercicios de matematicas.
+Este es un repositorio de prueba en el cual uso las notebooks de jupyter y diversas librerias como numpy para realizar algiunos ejercicios de matematicas.
 
 ## Installation
 
@@ -16,6 +16,7 @@ pip install -r requirements.txt
 
 * [Numpy](https://numpy.org/doc/stable/index.html)
 * [Scipy](https://docs.scipy.org/doc/scipy/index.html)
+* [Sympy](https://docs.sympy.org/latest/index.html)
 
 ### Otros enlaces
 
