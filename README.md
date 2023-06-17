@@ -21,3 +21,4 @@ pip install -r requirements.txt
 ### Otros enlaces
 
 * <https://towardsdatascience.com/write-markdown-latex-in-the-jupyter-notebook-10985edb91fd>
+* <https://youtube.com/playlist?list=PLkdGijFCNuVm4IfZlsZPEt4fPJHfl-0g5>
