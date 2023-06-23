@@ -17,6 +17,7 @@ pip install -r requirements.txt
 * [Numpy](https://numpy.org/doc/stable/index.html)
 * [Scipy](https://docs.scipy.org/doc/scipy/index.html)
 * [Sympy](https://docs.sympy.org/latest/index.html)
+* [latex2sympy2](https://pypi.org/project/latex2sympy2/)
 
 ### Otros enlaces
 
