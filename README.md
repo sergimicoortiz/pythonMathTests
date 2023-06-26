@@ -12,12 +12,13 @@ Para instalar las librerias que uso en este repositorio, se puede usar el siguie
 pip install -r requirements.txt
 ```
 
-### Documentation que he usado
+### Librerias que he usado
 
 * [Numpy](https://numpy.org/doc/stable/index.html)
 * [Scipy](https://docs.scipy.org/doc/scipy/index.html)
 * [Sympy](https://docs.sympy.org/latest/index.html)
 * [latex2sympy2](https://pypi.org/project/latex2sympy2/)
+* [matplotlib](https://matplotlib.org/stable/users/getting_started/)
 
 ### Otros enlaces
 
